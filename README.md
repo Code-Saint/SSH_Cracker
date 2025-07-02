@@ -30,5 +30,5 @@ This is a custom-built **SSH brute-force attack tool** written in Python. It aut
 ## 🚀 Usage
 
 ```bash
-python3 ssh_cracker.py -H your_IP -u root -P passwords.txt -t 5
+python3 ssh_cracker.py -H victim_IP -u root -P passwords.txt -t 5
 ```
