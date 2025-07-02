@@ -1,4 +1,3 @@
-# advance_ssh_brute.py - Advanced SSH Brute-force Tool
 import paramiko
 import argparse
 import socket
